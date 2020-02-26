@@ -2,7 +2,7 @@
 layout: post
 title:  "Unek-unek"
 date:   2020-02-226 19:40:25
-categories: Aulia Rahmi update
+categories: update
 ---
 
 Hello..., Saya sedang belajar membuat blog dengan jekyll.

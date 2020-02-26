@@ -5,14 +5,6 @@ date:   2020-02-26 19:40:25
 categories: update
 ---
 
-Hello..., Saya sedang belajar membuat blog dengan jekyll.
+HAII...
 
-{% highlight java %}
-
-public class BelajarJekyll {
-  public static void main(String[]args) {
-    System.out.println("Hello..., Belajar Jekyll");
-  }
-}
-
-{% endhighlight %}
+Udah lelah, serius:(

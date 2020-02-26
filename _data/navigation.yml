@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-  - title: "Posts"
-    url: /year-archive/
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Google"
+    url: https://www.google.com/
   - title: "Categories"
     url: /categories/
